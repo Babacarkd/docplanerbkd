@@ -1,0 +1,482 @@
+body {
+
+    margin: 0%;
+    background: white;
+    text-align: center;
+}
+
+
+.navbar {
+
+    display: flex;
+    justify-content: space-around;
+    height: 4em;
+    margin-top: -4%;
+    width: 100%;
+    height: 3em;
+    position: absolute;
+    position: fixed;
+    background-color: white
+    
+}
+
+.logo {
+
+    width: 20%;
+    height: 2em;
+    background-color: white;
+    
+  
+
+}
+
+.logo img {
+
+    width:100%;
+    height:4em;
+    background-color: w;
+
+}
+   
+
+.element {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 20%;
+    height: 2em;
+    background-color: white;
+}
+
+.element li {
+
+
+    list-style: none;
+    color: gray;
+
+}
+
+.logo2 {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 3em;
+}
+
+.titre1 {
+    color:#00b39b;
+    margin-top: 3em;
+    font-size: larger;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+
+
+}
+
+.container-text-1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.text1 {
+
+    width: 80%;
+    height: 10em;
+    display: flex;
+    margin-top: 3em;
+    justify-content: space-around;
+    margin-left: 8;
+    color: grey;
+    text-align: left;
+
+}
+    
+   
+   
+.texteg {
+
+    width: 40%;
+}
+
+ .texted {
+    width: 40%;
+ }   
+
+ .blocs{
+
+    width: 75%;
+    height:20em;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 11em;
+    margin-top: 3em;
+
+ }
+
+ .bloc1{
+
+    width: 28%;
+    height:23em;
+    background-color:#00b39b;
+    border-radius: 15px;
+
+
+
+ }
+
+ .icon1{
+    width: 5em;
+   height: 1em;
+    margin-top: 2em;
+ }
+
+ .titreb1{
+    display: flex;
+    width: 100%;
+    font-size: x-large;
+   display: contents;
+
+  
+
+ }
+
+ .para1{
+    color: white;
+  margin-left: 2em;
+  margin-right: 2em;
+   font-size: x-large;
+
+    
+ }
+
+ .bloc2{
+
+    width: 28%;
+    height: 23em;
+    background-color:  rgb(53, 115, 223) ;
+    border-radius: 15px;
+ }
+
+ .icon2{
+    width: 5em;
+   height: 1em;
+    margin-top: 2em;
+ }
+
+ .titreb2{
+    display: flex;
+    width: 100%;
+    font-size: x-large;
+   display: contents;
+ }
+
+
+
+.para2{
+    color: white;
+  margin-left: 2em;
+  margin-right: 2em;
+   font-size: x-large;
+
+
+   
+}
+
+
+ .bloc3 {
+    width: 28%;
+    height: 23em;
+    background-color:  rgb(22, 16, 60) ;
+    border-radius: 15px;
+ }
+ .icon3{
+
+    width: 5em;
+    height: 1em;
+     margin-top: 2em;
+ }  
+
+ .titreb3{
+    display: flex;
+    width: 100%;
+    font-size: x-large;
+   display: contents;
+ }
+
+
+ .para3{
+
+    color: white;
+  margin-left: 1em;
+  margin-right: 2em;
+   font-size: x-large;
+   width: 90%;
+
+   
+}
+
+ .partie3{
+   
+    margin-top: 5em;
+   
+    display: flex;
+    
+ }
+
+
+ .Titre2 {
+
+    width: 17%;
+    height:4em;
+    margin-left: 14%;
+    font-size:xx-large;
+    justify-content: left;
+    color:#00b39b ;
+   
+ }
+
+ .boutons{
+
+    width: 55%;
+    margin-left: 10em;
+    margin-right: 13em;
+    display: flex;
+   justify-content: space-around;
+ 
+
+
+ }
+
+
+.brands__logos {
+    list-style: none;
+    width: 100%;
+    height: 6em;
+   display: flex ;
+    flex-wrap: wrap;
+   align-items: center;
+   justify-content: space-between;
+  
+
+ }
+
+ .centre{
+
+    width: 100em;
+    height: 40em;
+    display: flex;
+    background-color: #cff5f3;
+    margin-top: 3em;
+
+
+ }
+
+ .biggauche{
+   width: 40%;
+   margin-left: 5em;
+      
+ }
+
+ .bigtitre{
+    width: 50%;
+    margin-left: 15%;
+    height: 10%;
+    color: #00b39b;
+    display: flex;
+   
+
+ }
+
+ .bigtext{
+
+    width: 50%;
+    margin-left: 15%;
+    height: 18%;
+    color: gray;
+    display: flex;
+   justify-content: left;
+   margin-top: 4em;
+    
+ }
+
+ .biglogo{
+
+    width: 40%;
+    margin-top: 2em;
+ 
+
+ }
+
+ .bigdroit{
+
+   width: 50%;
+   height: 100%;
+   margin-right: 20em;
+   
+   display: flex;
+      
+ }
+
+ .colone1{
+
+   width: 50%;
+   height: 85%;
+  
+   margin-top: 5em ;
+   display: flex;
+   align-items: flex-end;
+   flex-direction: column;
+
+ }
+
+ .hautd{
+
+   width: 70%;
+   height: 50%;
+   background-color: white;
+   border-radius: 3%;
+
+ }
+
+ .basd{
+   width: 70%;
+   height: 50%;
+   background-color: white;
+   margin-top: 3em;
+   border-radius: 3%;
+
+ }
+
+ .colone2{
+
+   width: 50%;
+   height: 85%;
+   
+   margin-top: 2em ;
+   margin-left: 5%;
+   display: flex;
+   align-items: flex-start;
+   flex-direction: column;
+
+ }
+
+
+ .hautg{
+   width: 70%;
+   height: 50%;
+   background-color: white;
+   border-radius: 3%;
+
+ }
+
+ .basg{
+   width: 70%;
+   height: 50%;
+   background-color: white;
+   margin-top: 3em;
+   border-radius: 3%;
+
+ }
+
+ .bande{
+    width: 100em;
+    height: 8em;
+    background-color: white;
+    position: absolute;
+    
+ }
+
+ .improve{
+   width: 30em;
+   height: 20em;
+   margin-left: 30%;
+   position: relative;
+   margin-top: 3em;
+  
+}
+
+ .improvetitre{
+
+   width: 80%;
+   height: 40%;      
+   margin-left: 3em;
+   
+ }
+ .papa{
+
+   width: 100%;
+   height: 70em;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 30em;
+
+
+ }
+
+ .parent {
+   display:grid;
+   grid-template-columns: repeat(5, 1fr);
+   grid-template-rows: repeat(5, 1fr);
+   grid-column-gap: 2em;
+   grid-row-gap: 2em;
+
+   
+  
+   }
+   
+   .div1 { grid-area: 1 / 1 / 2 / 2; }
+   .div2 { grid-area: 1 / 2 / 2 / 3; }
+   .div3 { grid-area: 1 / 3 / 2 / 4; }
+   .div4 { grid-area: 2 / 1 / 3 / 2; }
+   .div5 { grid-area: 2 / 2 / 3 / 3; }
+   .div6 { grid-area: 2 / 3 / 3 / 4; }
+   .div7 { grid-area: 3 / 1 / 4 / 2; }
+   .div8 { grid-area: 3 / 2 / 4 / 3; }
+   .div9 { grid-area: 3 / 3 / 4 / 4; }
+
+
+
+   .card-body{
+
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+
+   }
+
+
+   .card-title{
+
+      color: gray;
+      font-size:larger;
+      font-family: 'Times New Roman', Times, serif;
+     
+   }
+
+.btn{
+
+   background-color: blue;
+   color: white;
+  border-radius: 0.2em;
+
+
+}
+
+.last{
+
+   width: 100%;
+   height: 10em;
+   margin-top: 72em;
+}
+
+
+.footer{
+
+   width: 50%;
+   height: 2em;
+   margin-left: 25%;
+   background-color: rgba(255, 255, 255, 0.951);
+
+}
